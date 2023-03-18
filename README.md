@@ -7,15 +7,15 @@
 </div>
 <br>
 
-# git-flow
+# HubFlow completion
 
 Plugin for [Oh My Fish][omf-link].
 
-Completion support for git-flow. Fork from [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion/blob/master/git.fish)
+Completion support for git-hf. Fork from [oh-my-fish/plugin-git-flow](https://github.com/oh-my-fish/plugin-git-flow)
 
 The contained completion routines provide support for completing:
 
-- git-flow init and version
+- git-hf init and version
 
 - feature, hotfix and release branches
 
@@ -24,7 +24,8 @@ The contained completion routines provide support for completing:
 ## Install
 
 ```fish
-$ omf install git-flow
+$ omf install thalesmello/plugin-git-hf
+# I don't actually use fish, command might be wrong
 ```
 
 # License
