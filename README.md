@@ -24,7 +24,7 @@ The contained completion routines provide support for completing:
 ## Install
 
 ```fish
-$ omf install thalesmello/plugin-git-hf
+$ omf install thalesmello/plugin-hubflow
 # I don't actually use oh-my-fish, command might be wrong
 ```
 
