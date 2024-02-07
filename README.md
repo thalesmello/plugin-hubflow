@@ -25,7 +25,7 @@ The contained completion routines provide support for completing:
 
 ```fish
 $ omf install thalesmello/plugin-git-hf
-# I don't actually use fish, command might be wrong
+# I don't actually use oh-my-fish, command might be wrong
 ```
 
 # License
