@@ -1,4 +1,4 @@
-set git_paths $fish_complete_path/git.fis?
+set git_paths $fish_complete_path/git.fish*
 
 for path in $git_paths[-1..1]
   if test "$path" != "$(status --current-filename)"
