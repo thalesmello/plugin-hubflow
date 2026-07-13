@@ -7,4 +7,4 @@ for path in $git_paths
   end
 end
 
-complete -f git -n __fish_git_needs_command -a hf -d 'Manage a git-hf enabled repository'
+complete -f git -a hf -d 'Manage a git-hf enabled repository'
